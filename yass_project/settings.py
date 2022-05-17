@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-r6qb!e^6eaqge*s-o-b@2x24)is$hiw)6@f0kuek=n(l3*%%td
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'yass-game.com']
+ALLOWED_HOSTS = ['yass-game.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
