@@ -1,0 +1,1 @@
+web: gunicorn yass_project.wsgi --log-file -
